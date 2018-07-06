@@ -1,7 +1,7 @@
 node
 {
     
-    stagee('checkout code')
+    stage('checkout code')
     {
         
      git 'https://github.com/AshutoshKumar99/DeployWarEC2JenkinsPipeline.git'   
